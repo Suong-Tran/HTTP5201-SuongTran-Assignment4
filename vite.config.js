@@ -11,6 +11,7 @@ module.exports = {
       input: {
         main: resolve(__dirname, 'index.html'),
         qa: resolve(__dirname, 'QA/qa.html'),
+        qa_js: resolve(__dirname, 'QA/qa.js'),
         security: resolve(__dirname, 'Security/security.html'),
         bad: resolve(__dirname, 'Bad-example/bad-example.html')
       }
